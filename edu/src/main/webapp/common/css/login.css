@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+body{
+	background-color: #d9edf7;
+}
+
+.login-bg {
+	padding: 30px 0;
+	margin-bottom: 30px;
+	font-size: 21px;
+	font-weight: 200;
+	/* line-height: 2.1428571435; */
+	color: inherit;
+	background-color: blue;
+	behavior: url(/edu/common/PIE.htc);
+}
+
+.container .login-bg {
+	border-radius: 6px;
+}
+
+@media screen and (min-width: 768px) {
+	.login-bg {
+		padding-top: 48px;
+		padding-bottom: 48px;
+	}
+	.container .login-bg {
+		/* padding-right: 60px;
+		padding-left: 60px; */
+	}
+}

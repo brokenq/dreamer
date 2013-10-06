@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+.navbar-form {
+	margin-bottom: 0;
+}
+
+.mb10 {
+	margin-bottom: 10px;
+}
+
+.mw380{
+	max-width: 380px;
+	margin: 0 auto;
+}
+
+.cursor-pointer{
+	cursor: pointer;
+}
