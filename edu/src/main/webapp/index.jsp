@@ -34,7 +34,7 @@
 						<ul class="dropdown-menu">
 							<li><a href="#">IPHONE</a></li>
 							<li><a href="#">HTC</a></li>
-							<li><a href="#">MAC</a></li>
+							<li><a href="#">MAC2</a></li>
 							<li><a href="#">IPAD</a></li>
 						</ul>
 					</li>
