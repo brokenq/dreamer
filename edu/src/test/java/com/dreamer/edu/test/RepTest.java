@@ -22,7 +22,7 @@ public class RepTest extends BaseTest {
     @Autowired
     private TUserRep userRep;
     
-    @Test
+//    @Test
     public void findUser(){
         List<TUser> users = userRep.findAll();
         for (TUser user : users) {
@@ -35,7 +35,7 @@ public class RepTest extends BaseTest {
      * @author broken_xie
      */
     @Test
-    @Ignore
+//    @Ignore
     public void addUser() {
         Date now = new Date();
         TUser user = new TUser();
